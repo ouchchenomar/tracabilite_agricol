@@ -169,8 +169,8 @@ Pour contribuer au projet, veuillez suivre ces étapes:
 Pour toute question ou suggestion:
 - Ouvrir une issue sur GitHub
 - Contacter les développeurs:
-  - Ouchchen Omar (omar.ouchchen@email.com)
-  - Tahri Mohamed (mohamed.tahri@email.com)
+  - Ouchchen Omar (ouchcheno@gmail.com)
+  - Tahri Mohamed (mohamed.tahri@esi.ac.ma)
 
 ## Licence
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails. 
